@@ -103,8 +103,8 @@ Signal measured on Arduino Analog Pin **A2**.
 
 ## 👤 Author
 
-Created by [Yasteer](https://github.com/Yasteer)  
-Electronic Engineering Portfolio of Evidence 2025
+Created by [Yasteer Sewpersad](https://github.com/Yasteer)  
+Electronic Engineering Portfolio of Evidence
 
 ---
 
